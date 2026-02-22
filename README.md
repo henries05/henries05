@@ -91,8 +91,8 @@ Containerized Deployment · Linux-based Development Environments
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=henries05&show_icons=true&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henries05&layout=compact&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=henries05&show_icons=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=henries05&layout=compact&hide_border=true"/>
 </div>
 
 ---
